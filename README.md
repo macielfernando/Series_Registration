@@ -1,2 +1,2 @@
 # CadastrodeSeries
-Programa que cadastra séries
+Programa que cadastra séries C#
